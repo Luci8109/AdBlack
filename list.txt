@@ -1,6 +1,15 @@
 [Adblock Plus ]
 ! Title: 私人小说去广告规则
 ! by: 路痴
+!红果短剧
+||pangle.io^
+||pstatp.com^
+||byteoversea.com^
+||snssdk.com^
+||pangleglobal.com^
+||tob.pangle.io^
+||is.snssdk.com^
+！其他
 ||laikanav-titi046.xyz^
 ||59638.net^
 ||58791.net^
