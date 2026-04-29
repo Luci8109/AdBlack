@@ -9,6 +9,17 @@
 ||pangleglobal.com^
 ||tob.pangle.io^
 ||is.snssdk.com^
+#番茄
+||pangolin-sdk-toutiao.com^
+||zijieapi.com^$app=com.dragon.read
+||frontier-toutiao.snssdk.com^$app=com.dragon.read
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
+||pglstatp-toutiao.com^
+#18bit
+||file.7youxi.com^
+||cdn.51img3.com^
+||test.18bit.cn^
 ！其他
 ||laikanav-titi046.xyz^
 ||59638.net^
