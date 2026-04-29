@@ -1,7 +1,8 @@
 [Adblock Plus ]
 ! Title: 私人小说去广告规则
 ! by: 路痴
-!红果短剧
+
+! 红果短剧
 ||pangle.io^
 ||pstatp.com^
 ||byteoversea.com^
@@ -9,7 +10,7 @@
 ||pangleglobal.com^
 ||tob.pangle.io^
 ||is.snssdk.com^
-!字节系 AD API SDK 屏蔽
+! 字节系 AD API SDK 屏蔽
 /zijieapi.*/
 /byteorge.*/
 /bytegoofy.*/
@@ -28,18 +29,18 @@
 ||sf3-fe-tos.pglstatp-toutiao.com^$important
 ||skdisplay.jd.com^$important
 ||settings.ttwebview.com^$important
-!番茄
+! 番茄
 ||pangolin-sdk-toutiao.com^
 ||zijieapi.com^$app=com.dragon.read
 ||frontier-toutiao.snssdk.com^$app=com.dragon.read
 ||pangolin-sdk-toutiao-b.com^
 ||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
 ||pglstatp-toutiao.com^
-!18bit
+! 18bit
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
-!番茄小说
+! 番茄小说
 ||polaris3-normal-lq.zijieapi.com^$app=com.dragon.read
 ||v3-novelapp.fqnovelvod.com^$app=com.dragon.read
 ||ads3-normal-lq.zijieapi.com^$app=com.dragon.read
@@ -182,12 +183,12 @@
 ||udkpcc.xyz^
 ||mqjckv0417.com^
 ||yyk05.com^
-!B站
+! B站
 ||*pcdn*.biliapi.net^$important
 ||mcdn.bilivideo.com^$important
 ||mcdn.bilivideo.cn^$important
 ||szbdyd.com^$important
-!微信直连
+! 微信直连
 @@||szaxshort.weixin.qq.com^$important
 @@||axshort.weixin.qq.com^$important
 @@||mldisas.weixin.qq.com^$important
@@ -264,7 +265,7 @@
 @@||wxapp.tc.qq.com^$important
 @@||emoji.qpic.cn^$important
 @@||resstatic.servicewechat.com^$important
-!微信公众号
+! 微信公众号直连
 @@||aeventlog.beacon.qq.com^
 @@||cfg.flurry.com^
 @@||data.flurry.com^
