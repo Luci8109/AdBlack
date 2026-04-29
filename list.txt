@@ -182,7 +182,7 @@
 ||udkpcc.xyz^
 ||mqjckv0417.com^
 ||yyk05.com^
-// adguard
+！B站
 ||*pcdn*.biliapi.net^$important
 ||mcdn.bilivideo.com^$important
 ||mcdn.bilivideo.cn^$important
