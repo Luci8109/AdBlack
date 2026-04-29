@@ -9,7 +9,7 @@
 ||pangleglobal.com^
 ||tob.pangle.io^
 ||is.snssdk.com^
-！字节系 AD API SDK 屏蔽
+!字节系 AD API SDK 屏蔽
 /zijieapi.*/
 /byteorge.*/
 /bytegoofy.*/
@@ -172,7 +172,7 @@
 ||polaris3-normal-lq.zijieapi.com^
 ||skdisplay.jd.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
-！其他
+!其他
 ||laikanav-titi046.xyz^
 ||59638.net^
 ||58791.net^
@@ -182,12 +182,12 @@
 ||udkpcc.xyz^
 ||mqjckv0417.com^
 ||yyk05.com^
-！B站
+!B站
 ||*pcdn*.biliapi.net^$important
 ||mcdn.bilivideo.com^$important
 ||mcdn.bilivideo.cn^$important
 ||szbdyd.com^$important
-#微信直连
+!微信直连
 @@||szaxshort.weixin.qq.com^$important
 @@||axshort.weixin.qq.com^$important
 @@||mldisas.weixin.qq.com^$important
@@ -264,7 +264,7 @@
 @@||wxapp.tc.qq.com^$important
 @@||emoji.qpic.cn^$important
 @@||resstatic.servicewechat.com^$important
-#微信公众号
+!微信公众号
 @@||aeventlog.beacon.qq.com^
 @@||cfg.flurry.com^
 @@||data.flurry.com^
